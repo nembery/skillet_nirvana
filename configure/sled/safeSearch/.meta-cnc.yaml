@@ -4,7 +4,7 @@
 name: safesearch
 
 # label should be a human readable label that conveys what this skillet will do
-label: SLED SafeSearch
+label: SLED SafeSearch policy
 
 # description is a longer more informative version of a label
 description: SafeSearch for Education vertical
